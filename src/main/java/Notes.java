@@ -1,5 +1,6 @@
 class Notes {
 	public static void main(String args[]) {
+
 		// By writing // I have made this line a comment
 		// Comments DO NOT execute when the program is run
 
@@ -27,7 +28,7 @@ class Notes {
 		System.out.println(10);
 		System.out.println(2.3);
 
-		// system.out.println();  SPELL IT RIGHT AND WITH THE RIGHT CASE SENSETIVITY
+		// system.out.println();  //SPELL IT RIGHT AND WITH THE RIGHT CASE SENSETIVITY
 
 		
 	}
